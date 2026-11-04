@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Broken Supply Route</string>
+    <string name="dispatch_title">MISSION DISPATCH: THE BROKEN SUPPLY ROUTE</string>
+    <string name="dispatch_subtitle">Borderlands Outpost — Sector 4</string>
+    <string name="dispatch_body">A vital medical supply convoy has been ambushed in the borderlands. Communications are silenced, and an injured courier barely made it to the outpost.\n\nFive shinobi must escort the remaining supplies to the front-line field clinic through hostile territory. Squad positioning, threat assessment, and counter-tactics will determine survival.</string>
+    <string name="mode_choice_heading">Select Tactical Briefing Style</string>
+    <string name="mode_choice_subheading">Both modes receive identical rewards, progression, currencies, and combat math. You can change this at any time in settings.</string>
+    <string name="mode_guided_title">Guided Mode</string>
+    <string name="mode_guided_tag">Detailed Tactical Guidance</string>
+    <string name="mode_guided_desc">Explains each strategic decision, enemy intent, status timing (such as Wound), and formation counter as encounters arise. Ideal for exploring role synergies and learning counterplay.</string>
+    <string name="mode_compact_title">Compact Mode</string>
+    <string name="mode_compact_tag">Streamlined Action Briefing</string>
+    <string name="mode_compact_desc">Groups explanations into concise tactical summaries for fast deployment. Full lore, logs, and detailed breakdown cards remain revisitable on demand in your field dossier.</string>
+    <string name="selected_mode_label">Current Selection</string>
+    <string name="no_selection_label">No mode selected yet. Choose an option above to continue.</string>
+    <string name="persisted_confirmation">Preference saved locally. Selections persist across app closures and relaunches.</string>
+    <string name="status_selected">Active</string>
+    <string name="status_select">Select</string>
+</resources>

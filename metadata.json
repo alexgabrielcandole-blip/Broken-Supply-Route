@@ -1,0 +1,6 @@
+{
+  "name": "Broken Supply Route",
+  "description": "Tactical shinobi idle RPG with squad formation, counters, and offline progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
