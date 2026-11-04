@@ -1,9 +1,0 @@
-{
-  "name": "broken-supply-route",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "echo 'Build successful.'",
-    "lint": "echo 'No lint errors.'"
-  }
-}
